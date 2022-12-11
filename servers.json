@@ -1,8 +1,8 @@
 {
-    "lacartoons": {
-        "language": "es",
-        "name": "Caricaturas",
-        "status": 3,
-        "url": "https://lacartoons.com"
-    },
- }
+    "name": "PelisHUB Plus",
+    "description": "Contenido en Latino, Castellano y Subtitulado",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Near2k22/PHUB/main/plugins.json"
+    ]
+}
