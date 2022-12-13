@@ -1,272 +1,290 @@
 [
- 
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animefenix.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=example.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 17637,
-        "status": 1,
-        "language": "es",
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 1601,
+        "status": 0,
         "authors": [
-            
+            "Jace"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
+            "XXX"
         ],
         "version": 1,
-        "internalName": "AnimefenixProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/AnimefenixProvider.cs3",
-        "name": "AnimefenixProvider"
+        "internalName": "Example",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/Example.cs3",
+        "name": "Example"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=haho.moe&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 16984,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 13809,
         "status": 1,
-        "language": "es",
+        "language": "en",
         "authors": [
-            
+            "ArjixWasTaken"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
+            "XXX"
         ],
-        "version": 1,
-        "internalName": "AnimeflvIOProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/AnimeflvIOProvider.cs3",
-        "name": "AnimeflvIOProvider"
+        "version": 5,
+        "internalName": "Hahomoe",
+        "description": "Hentai AHO Streaming",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/Hahomoe.cs3",
+        "name": "Hahomoe"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www3.animeflv.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hanime.tv&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 16012,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 21999,
         "status": 1,
-        "language": "es",
+        "language": "en",
         "authors": [
-            
+            "ArjixWasTaken",
+            "Jace"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
+            "XXX"
         ],
-        "version": 1,
-        "internalName": "AnimeflvnetProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/AnimeflvnetProvider.cs3",
-        "name": "AnimeflvnetProvider"
+        "version": 5,
+        "internalName": "Hanime",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/Hanime.cs3",
+        "name": "Hanime"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.animesaturn.cc&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 17153,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 15051,
         "status": 1,
-        "language": "it",
+        "language": "en",
         "authors": [
-            
+            "Jace"
         ],
         "tvTypes": [
-            "Anime",
-            "AnimeMovie"
+            "XXX"
         ],
-        "version": 3,
-        "internalName": "AnimeSaturnProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/AnimeSaturnProvider.cs3",
-        "name": "AnimeSaturnProvider"
+        "version": 5,
+        "internalName": "HentaiHaven",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/HentaiHaven.cs3",
+        "name": "HentaiHaven"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.animeworld.tv&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hpjav.tv&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 21055,
-        "status": 1,
-        "language": "it",
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 7798,
+        "status": 3,
+        "language": "en",
         "authors": [
-            
+            "Jace"
         ],
         "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 3,
-        "internalName": "AnimeWorldProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/AnimeWorldProvider.cs3",
-        "name": "AnimeWorldProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=aniplay.it&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 21600,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
+            "XXX"
         ],
         "version": 4,
-        "internalName": "AniPlayProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/AniPlayProvider.cs3",
-        "name": "AniPlayProvider"
+        "internalName": "HpJav",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/HpJav.cs3",
+        "name": "HpJav"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=calciostreaming.live&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javfree.sh&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 8645,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 11840,
         "status": 1,
-        "language": "it",
+        "language": "en",
         "authors": [
-            "Adippe"
+            "Jace"
         ],
         "tvTypes": [
-            "Live"
+            "XXX"
         ],
-        "version": 1,
-        "internalName": "CalcioStreamingProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/CalcioStreamingProvider.cs3",
-        "name": "CalcioStreamingProvider"
+        "version": 8,
+        "internalName": "JavFreeProvider",
+        "description": "High quality JAV",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/JavFreeProvider.cs3",
+        "name": "JavFreeProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 12968,
-        "status": 1,
-        "language": "it",
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 7529,
+        "status": 3,
+        "language": "en",
         "authors": [
-            "Forthe"
+            "Jace"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "XXX"
         ],
-        "version": 2,
-        "internalName": "CasaCinemaProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/CasaCinemaProvider.cs3",
-        "name": "CasaCinemaProvider"
+        "version": 5,
+        "internalName": "JavGuru",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/JavGuru.cs3",
+        "name": "JavGuru"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cineblog01.legal&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javhd.icu&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 11279,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 15341,
         "status": 1,
-        "language": "it",
+        "language": "en",
         "authors": [
-            "Adippe"
+            "Jace"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "XXX"
         ],
-        "version": 2,
-        "internalName": "CineBlog01Provider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/CineBlog01Provider.cs3",
-        "name": "CineBlog01Provider"
+        "version": 7,
+        "internalName": "JavHD",
+        "description": "HD JAV Library",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/JavHD.cs3",
+        "name": "JavHD"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cb01.rip&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www5.javmost.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14155,
-        "status": 1,
-        "language": "it",
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 8703,
+        "status": 3,
+        "language": "en",
         "authors": [
-            "Adippe"
+            "Jace"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "XXX"
         ],
-        "version": 2,
-        "internalName": "CineBlogProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/CineBlogProvider.cs3",
-        "name": "CineBlogProvider"
+        "version": 5,
+        "internalName": "JavMost",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/JavMost.cs3",
+        "name": "JavMost"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.lol&sz=%size%",
+        "iconUrl": "https://javsub.co/wp-content/uploads/2021/09/jav-sub.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 15453,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 14250,
         "status": 1,
-        "language": "es",
+        "language": "en",
         "authors": [
-            
+            "Jace"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie"
+            "XXX"
         ],
-        "version": 1,
-        "internalName": "CinecalidadProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/CinecalidadProvider.cs3",
-        "name": "CinecalidadProvider"
+        "version": 7,
+        "internalName": "JavSubProvider",
+        "description": "High quality JAV with English sub",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/JavSubProvider.cs3",
+        "name": "JavSubProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javtube.watch&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 18868,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 13166,
         "status": 1,
-        "language": "es",
+        "language": "en",
         "authors": [
-            
+            "Jace"
         ],
         "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
+            "XXX"
         ],
-        "version": 1,
-        "internalName": "CuevanaProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/CuevanaProvider.cs3",
-        "name": "CuevanaProvider"
+        "version": 5,
+        "internalName": "JavTube",
+        "description": "Watch Jav Tube FULL HD",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/JavTube.cs3",
+        "name": "JavTube"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dokumentalne.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=opjav.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 9196,
-        "status": 1,
-        "language": "pl",
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 13473,
+        "status": 2,
+        "language": "en",
         "authors": [
-            "Cloudburst"
+            "Jace"
         ],
         "tvTypes": [
-            "Documentary"
+            "XXX"
         ],
-        "version": 1,
-        "internalName": "DokumentalneProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/DokumentalneProvider.cs3",
-        "name": "DokumentalneProvider"
+        "version": 6,
+        "internalName": "OpJav",
+        "description": "Old JAV",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/OpJav.cs3",
+        "name": "OpJav"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasyt.com&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pornhub.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 17071,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 10111,
         "status": 1,
-        "language": "es",
+        "language": "en",
         "authors": [
-            
+            "Stormunblessed",
+            "Jace"
         ],
         "tvTypes": [
-            "Anime",
-            "OVA"
+            "XXX"
         ],
-        "version": 1,
-        "internalName": "DoramasYTProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/DoramasYTProvider.cs3",
-        "name": "DoramasYTProvider"
+        "version": 5,
+        "internalName": "Pornhub",
+        "description": "Cornhub",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/Pornhub.cs3",
+        "name": "Pornhub"
     },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.sex&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 13199,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "duongnv1996",
+            "Jace"
+        ],
+        "tvTypes": [
+            "XXX"
+        ],
+        "version": 5,
+        "internalName": "Vlxx",
+        "description": "Vietnamese Subbed. CloudFare.",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/Vlxx.cs3",
+        "name": "Vlxx"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xvideos.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Jacekun/cs3xxx-repo",
+        "fileSize": 15389,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed",
+            "Jace"
+        ],
+        "tvTypes": [
+            "XXX"
+        ],
+        "version": 8,
+        "internalName": "XvideosProvider",
+        "description": "The best free XXX site",
+        "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/XvideosProvider.cs3",
+        "name": "XvideosProvider"
+    }
 ]
