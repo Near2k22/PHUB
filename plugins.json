@@ -10,7 +10,7 @@
             "Adippe"
         ],
         "tvTypes": [
-            "Movie"
+            "Películas"
         ],
         "version": 3,
         "internalName": "AltadefinizioneProvider",
@@ -165,7 +165,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 2,
         "internalName": "CasaCinemaProvider",
@@ -184,7 +184,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 2,
         "internalName": "CineBlog01Provider",
@@ -203,7 +203,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 2,
         "internalName": "CineBlogProvider",
@@ -222,7 +222,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "CinecalidadProvider",
@@ -242,7 +242,7 @@
         "tvTypes": [
             "Anime",
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "CuevanaProvider",
@@ -296,7 +296,7 @@
             
         ],
         "tvTypes": [
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "ElifilmsProvider",
@@ -315,7 +315,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "EntrepeliculasyseriesProvider",
@@ -334,7 +334,7 @@
         ],
         "tvTypes": [
             "AsianDrama",
-            "Movie",
+            "Películas",
             "OVA"
         ],
         "version": 1,
@@ -372,7 +372,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 2,
         "internalName": "FilmanProvider",
@@ -391,7 +391,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 4,
         "internalName": "FilmpertuttiProvider",
@@ -428,7 +428,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "FrenchStreamProvider",
@@ -448,7 +448,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 3,
         "internalName": "GuardaSerieProvider",
@@ -467,7 +467,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 3,
         "internalName": "HDMovie5",
@@ -487,7 +487,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 5,
         "internalName": "IlGenioDelloStreamingProvider",
@@ -618,7 +618,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "PelisflixProvider",
@@ -637,7 +637,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "PeliSmartProvider",
@@ -656,7 +656,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "PelisplusHDProvider",
@@ -675,7 +675,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "PelisplusProvider",
@@ -694,7 +694,7 @@
         ],
         "tvTypes": [
             "AsianDrama",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "PinoyHDXyzProvider",
@@ -731,7 +731,7 @@
             "Jace"
         ],
         "tvTypes": [
-            "Movie",
+            "Películas",
             "TvSeries",
             "AsianDrama"
         ],
@@ -753,7 +753,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "SeriesflixProvider",
@@ -772,7 +772,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie",
+            "Películas",
             "AnimeMovie",
             "Anime",
             "OVA"
@@ -813,7 +813,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 4,
         "internalName": "StreamingcommunityProvider",
@@ -832,7 +832,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 3,
         "internalName": "TantiFilmProvider",
@@ -886,7 +886,7 @@
             
         ],
         "tvTypes": [
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "VfFilmProvider",
@@ -921,7 +921,7 @@
             "Cloudburst"
         ],
         "tvTypes": [
-            "Movie",
+            "Películas",
             "TvSeries"
         ],
         "version": 4,
@@ -981,7 +981,7 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "WiflixProvider",
@@ -1003,7 +1003,7 @@
             "AnimeMovie",
             "Anime",
             "TvSeries",
-            "Movie"
+            "Películas"
         ],
         "version": 1,
         "internalName": "XcineProvider",
@@ -1021,7 +1021,7 @@
             "Cloudburst"
         ],
         "tvTypes": [
-            "Movie",
+            "Películas",
             "TvSeries"
         ],
         "version": 2,
