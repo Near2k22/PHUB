@@ -10,7 +10,7 @@
             "Adippe"
         ],
         "tvTypes": [
-            "Películas"
+            "Peliculas"
         ],
         "version": 3,
         "internalName": "AltadefinizioneProvider",
@@ -28,7 +28,7 @@
             
         ],
         "tvTypes": [
-            "AnimeMovie",
+            "PeliculasAnime",
             "OVA",
             "Anime"
         ],
@@ -48,7 +48,7 @@
             
         ],
         "tvTypes": [
-            "AnimeMovie",
+            "PeliculasAnime",
             "Anime",
             "OVA"
         ],
@@ -68,7 +68,7 @@
             
         ],
         "tvTypes": [
-            "AnimeMovie",
+            "PeliculasAnime",
             "Anime",
             "OVA"
         ],
@@ -89,7 +89,7 @@
         ],
         "tvTypes": [
             "Anime",
-            "AnimeMovie"
+            "PeliculasAnime"
         ],
         "version": 3,
         "internalName": "AnimeSaturnProvider",
@@ -107,7 +107,7 @@
             
         ],
         "tvTypes": [
-            "AnimeMovie",
+            "PeliculasAnime",
             "Anime",
             "OVA"
         ],
@@ -127,7 +127,7 @@
             
         ],
         "tvTypes": [
-            "AnimeMovie",
+            "PeliculasAnime",
             "Anime",
             "OVA"
         ],
@@ -137,7 +137,7 @@
         "name": "AniPlayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=calciostreaming.live&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=calciostreaming.TV&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
         "fileSize": 8645,
@@ -147,7 +147,7 @@
             "Adippe"
         ],
         "tvTypes": [
-            "Live"
+            "TV"
         ],
         "version": 1,
         "internalName": "CalcioStreamingProvider",
@@ -164,8 +164,8 @@
             "Forthe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 2,
         "internalName": "CasaCinemaProvider",
@@ -183,8 +183,8 @@
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 2,
         "internalName": "CineBlog01Provider",
@@ -202,8 +202,8 @@
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 2,
         "internalName": "CineBlogProvider",
@@ -221,8 +221,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "CinecalidadProvider",
@@ -241,8 +241,8 @@
         ],
         "tvTypes": [
             "Anime",
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "CuevanaProvider",
@@ -296,7 +296,7 @@
             
         ],
         "tvTypes": [
-            "Películas"
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "ElifilmsProvider",
@@ -314,8 +314,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "EntrepeliculasyseriesProvider",
@@ -334,7 +334,7 @@
         ],
         "tvTypes": [
             "AsianDrama",
-            "Películas",
+            "Peliculas",
             "OVA"
         ],
         "version": 1,
@@ -353,7 +353,7 @@
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries"
+            "Series"
         ],
         "version": 2,
         "internalName": "EurostreamingProvider",
@@ -371,8 +371,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 2,
         "internalName": "FilmanProvider",
@@ -390,8 +390,8 @@
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 4,
         "internalName": "FilmpertuttiProvider",
@@ -408,7 +408,7 @@
             "Adippe"
         ],
         "tvTypes": [
-            "Live"
+            "TV"
         ],
         "version": 1,
         "internalName": "FreeTVProvider",
@@ -427,8 +427,8 @@
             "Eddy976"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "FrenchStreamProvider",
@@ -447,8 +447,8 @@
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 3,
         "internalName": "GuardaSerieProvider",
@@ -466,8 +466,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 3,
         "internalName": "HDMovie5",
@@ -486,8 +486,8 @@
             "Forthe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 5,
         "internalName": "IlGenioDelloStreamingProvider",
@@ -504,7 +504,7 @@
             "Adippe"
         ],
         "tvTypes": [
-            "Live"
+            "TV"
         ],
         "version": 1,
         "internalName": "IptvorgProvider",
@@ -560,7 +560,7 @@
             
         ],
         "tvTypes": [
-            "AnimeMovie",
+            "PeliculasAnime",
             "Anime"
         ],
         "version": 2,
@@ -580,7 +580,7 @@
         ],
         "tvTypes": [
             "Anime",
-            "AnimeMovie"
+            "PeliculasAnime"
         ],
         "version": 1,
         "internalName": "NekosamaProvider",
@@ -598,7 +598,7 @@
             "ImZaw"
         ],
         "tvTypes": [
-            "Live"
+            "TV"
         ],
         "version": 6,
         "internalName": "NineGoalProvider",
@@ -617,8 +617,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "PelisflixProvider",
@@ -636,8 +636,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "PeliSmartProvider",
@@ -655,8 +655,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "PelisplusHDProvider",
@@ -674,8 +674,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "PelisplusProvider",
@@ -694,7 +694,7 @@
         ],
         "tvTypes": [
             "AsianDrama",
-            "Películas"
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "PinoyHDXyzProvider",
@@ -731,8 +731,8 @@
             "Jace"
         ],
         "tvTypes": [
-            "Películas",
-            "TvSeries",
+            "Peliculas",
+            "Series",
             "AsianDrama"
         ],
         "version": 2,
@@ -752,8 +752,8 @@
             
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "SeriesflixProvider",
@@ -771,9 +771,9 @@
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas",
-            "AnimeMovie",
+            "Series",
+            "Peliculas",
+            "PeliculasAnime",
             "Anime",
             "OVA"
         ],
@@ -784,7 +784,7 @@
         "name": "SoraItalianStream"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=starlive.xyz&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=starTV.xyz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
         "fileSize": 13614,
@@ -794,12 +794,12 @@
             "Adippe"
         ],
         "tvTypes": [
-            "Live"
+            "TV"
         ],
         "version": 1,
-        "internalName": "StarLiveProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/StarLiveProvider.cs3",
-        "name": "StarLiveProvider"
+        "internalName": "StarTVProvider",
+        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/StarTVProvider.cs3",
+        "name": "StarTVProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=streamingcommunity.best&sz=%size%",
@@ -812,8 +812,8 @@
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 4,
         "internalName": "StreamingcommunityProvider",
@@ -831,8 +831,8 @@
             "Adippe"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 3,
         "internalName": "TantiFilmProvider",
@@ -850,7 +850,7 @@
             "Adippe"
         ],
         "tvTypes": [
-            "Live"
+            "TV"
         ],
         "version": 2,
         "internalName": "TvItalianaProvider",
@@ -868,7 +868,7 @@
             "Cloudburst"
         ],
         "tvTypes": [
-            "Live"
+            "TV"
         ],
         "version": 1,
         "internalName": "TvpolanProvider",
@@ -886,7 +886,7 @@
             
         ],
         "tvTypes": [
-            "Películas"
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "VfFilmProvider",
@@ -903,7 +903,7 @@
             
         ],
         "tvTypes": [
-            "TvSeries"
+            "Series"
         ],
         "version": 1,
         "internalName": "VfSerieProvider",
@@ -921,8 +921,8 @@
             "Cloudburst"
         ],
         "tvTypes": [
-            "Películas",
-            "TvSeries"
+            "Peliculas",
+            "Series"
         ],
         "version": 4,
         "internalName": "VizjerProvider",
@@ -941,7 +941,7 @@
         ],
         "tvTypes": [
             "Anime",
-            "AnimeMovie"
+            "PeliculasAnime"
         ],
         "version": 1,
         "internalName": "VostfreeProvider",
@@ -959,9 +959,9 @@
             "Cloudburst"
         ],
         "tvTypes": [
-            "Películas",
-            "TvSeries",
-            "Live"
+            "Peliculas",
+            "Series",
+            "TV"
         ],
         "version": 3,
         "internalName": "WebFlix",
@@ -980,8 +980,8 @@
             "Eddy"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "WiflixProvider",
@@ -1000,10 +1000,10 @@
             
         ],
         "tvTypes": [
-            "AnimeMovie",
+            "PeliculasAnime",
             "Anime",
-            "TvSeries",
-            "Películas"
+            "Series",
+            "Peliculas"
         ],
         "version": 1,
         "internalName": "XcineProvider",
@@ -1021,8 +1021,8 @@
             "Cloudburst"
         ],
         "tvTypes": [
-            "Películas",
-            "TvSeries"
+            "Peliculas",
+            "Series"
         ],
         "version": 2,
         "internalName": "ZaluknijProvider",
