@@ -11,8 +11,8 @@
         ],
         "tvTypes": [
             "Anime",
-            "Series",
-            "Peliculas"
+            "TvSeries",
+            "Movie"
         ],
         "version": 1,
         "internalName": "CuevanaProvider",
