@@ -16,7 +16,7 @@
         ],
         "version": 1,
         "internalName": "CuevanaProvider",
-        "url": "https://raw.githubusercontent.com/Near2k22/p123/builds/CuevanaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Near2k22/PS/builds/CuevanaProvider.cs3",
         "name": "CuevanaPlus"
     },
     {
@@ -35,7 +35,7 @@
         ],
         "version": 1,
         "internalName": "DoramasYTProvider",
-        "url": "https://raw.githubusercontent.com/Near2k22/p123/builds/DoramasYTProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Near2k22/PS/builds/DoramasYTProvider.cs3",
         "name": "DoramasYTProvider"
     }
 ]
