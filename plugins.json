@@ -1,6 +1,6 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
+        "iconUrl": "https://techbigs.com/uploads/2022/1/play-hub-apk.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Near2k22/PS",
         "fileSize": 18868,
@@ -10,13 +10,12 @@
             "Near"
         ],
         "tvTypes": [
-            "Anime",
             "TvSeries",
             "Movie"
         ],
         "version": 1,
-        "internalName": "CuevanaProvider",
-        "url": "https://github.com/Near2k22/PS/raw/main/CuevanaProvider/CuevanaProvider.cs3",
+        "internalName": "PHUBProvider",
+        "url": "https://github.com/Near2k22/PS/raw/main/PHUBProvider/PHUBProvider.cs3",
         "name": "PHUB Plus"
     }
 ]
