@@ -1,8 +1,8 @@
 [
     {
-        "iconUrl": "https://techbigs.com/uploads/2022/1/play-hub-apk.png",
+        "iconUrl": "https://image.winudf.com/v2/image1/Y29tLm5lYXIucGhfaWNvbl8xNjU1NTExNzAxXzA5NA/icon.png?w=100&fakeurl=1&type=.webp",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Near2k22/PS",
+        "repositoryUrl": "https://github.com/Near2k22/Plugins",
         "fileSize": 18868,
         "status": 1,
         "language": "es",
@@ -15,7 +15,7 @@
         ],
         "version": 1,
         "internalName": "PHUBProvider",
-        "url": "https://github.com/Near2k22/PS/raw/main/PHUBProvider/PHUBProvider.cs3",
+        "url": "https://github.com/Near2k22/Plugins/raw/main/PHUBProvider/src/main/PHUBProvider.cs3",
         "name": "PHUB Plus"
     }
 ]
