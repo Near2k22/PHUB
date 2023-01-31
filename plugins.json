@@ -18,24 +18,5 @@
         "internalName": "CuevanaProvider",
         "url": "https://github.com/Near2k22/PS/raw/main/CuevanaProvider/CuevanaProvider.cs3",
         "name": "PHUB Plus"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasyt.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Near2k22/PS",
-        "fileSize": 17071,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "DoramasYTProvider",
-        "url": "https://raw.githubusercontent.com/Near2k22/PS/builds/DoramasYTProvider.cs3",
-        "name": "DoramasYTProvider"
     }
 ]
