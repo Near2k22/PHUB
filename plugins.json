@@ -660,7 +660,7 @@
         ],
         "version": 1,
         "internalName": "PelisplusProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/PelisplusProvider.cs3",
+        "url": "https://github.com/Near2k22/Plugins/raw/main/PelisplusProvider/PelisplusProvider.cs3",
         "name": "PelisplusProvider"
     },
     {
