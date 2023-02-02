@@ -646,13 +646,13 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.icu&sz=%size%",
-        "apiVersion": 1,
+        "apiVersion": 2,
         "repositoryUrl": "https://github.com/Near2k22/Plugins",
         "fileSize": 14461,
         "status": 1,
         "language": "es",
         "authors": [
-            
+            "Near"
         ],
         "tvTypes": [
             "TvSeries",
