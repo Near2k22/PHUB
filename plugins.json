@@ -20,7 +20,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animefenix.com&sz=%size%",
         "apiVersion": 2,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "repositoryUrl": "https://github.com/Near2k22/Plugins",
         "fileSize": 17634,
         "status": 1,
         "language": "es",
@@ -382,7 +382,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "repositoryUrl": "https://github.com/Near2k22/Plugins",
         "fileSize": 14772,
         "language": "es",
         "status": 1,
@@ -395,7 +395,7 @@
         "version": 1,
         "internalName": "FreeTVProvider",
         "url": "https://github.com/Near2k22/Plugins/raw/main/FreeTVProvider/FreeTVProvider.cs3",
-        "name": "PelisHUB TV"
+        "name": "FreeTVProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=french-stream.ac&sz=%size%",
