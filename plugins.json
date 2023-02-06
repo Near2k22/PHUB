@@ -268,8 +268,8 @@
         "name": "DoramasYTProvider"
     },
     {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream-extensions-multilingual",
+        "apiVersion": 2,
+        "repositoryUrl": "https://github.com/Near2k22/Plugins",
         "fileSize": 9429,
         "status": 1,
         "language": "es",
@@ -279,7 +279,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "ElifilmsProvider",
         "url": "https://github.com/Near2k22/Plugins/raw/main/ElifilmsProvider/ElifilmsProvider.cs3",
         "name": "ElifilmsProvider"
