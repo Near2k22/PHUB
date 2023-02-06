@@ -225,7 +225,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "CinecalidadProvider",
         "url": "https://github.com/Near2k22/Plugins/raw/main/CinecalidadProvider/CinecalidadProvider.cs3",
         "name": "CinecalidadProvider"
@@ -281,7 +281,7 @@
         ],
         "version": 1,
         "internalName": "ElifilmsProvider",
-        "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-multilingual/builds/ElifilmsProvider.cs3",
+        "url": "https://github.com/Near2k22/Plugins/raw/main/ElifilmsProvider/ElifilmsProvider.cs3",
         "name": "ElifilmsProvider"
     },
     {
